@@ -1,0 +1,12 @@
+---
+layout: post
+title: Pop Animation Engine
+tags: [ruby, sinatra, heroku, development, iOS, Xcode, Facebook, Pop]
+---
+
+[Pop](https://github.com/facebook/pop) the animation engine behind Paper is now [open source](https://code.facebook.com/posts/234067533455773/introducing-pop-the-animation-engine-behind-paper/).
+
+
+
+
+

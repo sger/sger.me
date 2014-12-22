@@ -1,0 +1,12 @@
+---
+layout: post
+title: Apple Pay
+tags: [ruby]
+---
+
+[Pay](http://nshipster.com/apple-pay/) Everything you to need to know about Pay great article by [Jack Flintermann](https://twitter.com/jflinter) on [NSHipster](http://nshipster.com/).
+
+
+
+
+

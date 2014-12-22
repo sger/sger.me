@@ -1,0 +1,12 @@
+---
+layout: post
+title: 2048 in Python
+tags: [ruby, sinatra, heroku, development, python]
+---
+
+Checkout the [Python](http://www.python.org) version of [2048](http://gabrielecirulli.github.io/2048/) here [term20148](https://github.com/bfontaine/term2048)
+
+
+
+
+

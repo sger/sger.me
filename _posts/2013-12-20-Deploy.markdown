@@ -1,0 +1,28 @@
+---
+layout: post
+title: Deploy
+tags: [ruby, sinatra, heroku, development, github]
+---
+
+For quick deploy to [GitHub](http://www.github.com) and [Heroku](http://www.heroku.com) i'm using the following rake task:
+
+{% highlight ruby %}
+
+task :deploy do
+  unless `git status -s`.length == 0
+  puts 'Commit any changes'
+  exit
+end
+
+`git push origin master`
+`git push heroku master`
+end
+{% endhighlight %}
+
+and then run the task:
+
+{% highlight ruby %}
+$rake task
+{% endhighlight %}
+
+

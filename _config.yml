@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            sger
+tagline:
+url:              http://sger.me
+paginate:         3
+baseurl:          /
+author:
+  name:           Spiros Gerokostas
+  url:            https://twitter.com/sger
+  email:          spiros.gerokostas@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
